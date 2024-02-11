@@ -99,7 +99,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: didikkamseno/didikkamseno.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJUZcLw
+    repo_id: R_kgDOKPWtCA
     category: Q&A
     category_id: DIC_kwDOJUZcL84CV55A
     mapping: # optional, default to 'pathname'
