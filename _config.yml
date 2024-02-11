@@ -101,7 +101,7 @@ comments:
     repo: didikkamseno/didikkamseno.github.io # <gh-username>/<repo>
     repo_id: R_kgDOKPWtCA
     category: Q&A
-    category_id: DIC_kwDOJUZcL84CV55A
+    category_id: DIC_kwDOKPWtCM4CbH0a
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
